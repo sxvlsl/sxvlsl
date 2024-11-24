@@ -1,16 +1,14 @@
-# Hello, I'm Saúl 👋
+# 🌙 Midnight Studios
 
-## About Me
-- 🌍 We're a videogames ocmpany from Spain.
-- 🌱 We've developed Minecraft servers.
+Welcome to **Midnight Studios**! We are a Minecraft server development team dedicated to crafting immersive and unique experiences. Founded in **September 2024**, we strive to bring creativity and innovation to the Minecraft community.  
 
-## Skills
-- 💻 Programming: Java.
+---
 
-## Projects
-- [My First Project](https://github.com/your-repo) - A brief description of this project.
-- [My Portfolio](https://yourportfolio.com) - Showcasing my work.
+## 🌟 About Us  
+At **Midnight Studios**, we specialize in creating custom Minecraft servers with engaging gameplay mechanics and rich worlds. Our flagship project is **Luminar City**, a **Minecraft roleplay server** inspired by the vibrant and action-packed universe of **GTA V**.
 
-## Contact
-- 📧 Email: mdnstudios@gmail.com
-- 🌐 Discord: [saul-portfolio.com](https://saul-portfolio.com)
+---
+
+## 🚀 Featured Project: Luminar City  
+### 🎮 What is Luminar City?  
+**Luminar City** is a groundbreaking Minecraft server where players dive into a **roleplaying experience** like no other
