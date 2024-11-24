@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm Saúl 👋
 
-<!--
-**mdnstudios/mdnstudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌍 We're a videogames ocmpany from Spain.
+- 🌱 We've developed Minecraft servers.
 
-Here are some ideas to get you started:
+## Skills
+- 💻 Programming: Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [My First Project](https://github.com/your-repo) - A brief description of this project.
+- [My Portfolio](https://yourportfolio.com) - Showcasing my work.
+
+## Contact
+- 📧 Email: mdnstudios@gmail.com
+- 🌐 Discord: [saul-portfolio.com](https://saul-portfolio.com)
